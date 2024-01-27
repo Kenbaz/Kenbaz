@@ -1,7 +1,6 @@
-ABOUT ME: 
-          Hi there! i'm Kenneth Bassey, a frontend web developer with a huge appreciation for backend development, i'm at the beginning of my career and its challenging but very fun and exciting and i just want to keep                 going. My stacks are HTML, CSS, Javascript, Python, Django, React.
-I'm currently learning with Altschool africa to gain more knowledge and improve my skills.
-ps: Dont be shy to fork me on any of projects you think could be better, Thank you.
+* Hi there! i'm Kenneth Bassey, a frontend web developer with a huge appreciation for backend development, i'm at the beginning of my career and its challenging but very fun and exciting and i just want to keep                 going. My stacks are HTML, CSS, Javascript, Python, Django, React.
+* I'm currently learning with Altschool africa to gain more knowledge and improve my skills.
+* ps: Dont be shy to fork me on any of projects you think could be better, Thank you.
 
 <!--
 **Kenbaz/Kenbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
