@@ -6,3 +6,6 @@ Here's a quick summary about me:
 * 🌱 I use pretty awesome tools that helps me be a web developer; like HTML, CSS, JavaScript, i also use frameworks like Reactjs, Vuejs, and Tailwindcss; i'm currently learning Nextjs and ReactNative and the Almighty Typescript; aparently i need it or i might never move out of my parents house lol.
 * 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 * 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+
+* | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kenbaz&show_icons=true&include_all_commits=true&hide_border=true" alt="Kenbaz's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenbaz&langs_count=8&layout=compact&hide_border=true" alt="Kenbaz's GitHub stats" /> |
+| ------------- | ------------- |
