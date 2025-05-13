@@ -1,4 +1,4 @@
-* Hi there! i'm Kenneth Bassey, a fullstack Engineer, Welcome to my code bank; 
+* Hi there! i'm Kenneth Bassey, a fullstack Engineer, Welcome to my code bank.
 
 Here's a quick summary about me:
 * 😊 Pronouns: He/him
