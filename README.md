@@ -1,4 +1,4 @@
-* Hi there! i'm Kenneth Bassey, a junior frontend web developer; i'm at the beginning of my career and its quite challenging but very fun and exciting and i just want to keep going.
+* Hi there! i'm Kenneth Bassey, a fullstack Engineer, Welcome to my code bank; 
 
 Here's a quick summary about me:
 * 😊 Pronouns: He/him
